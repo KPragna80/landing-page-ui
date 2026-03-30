@@ -1,4 +1,4 @@
-# Product Landing Page
+# Landing Page
 
 ## Description
 A responsive landing page with modern UI and smooth navigation.
